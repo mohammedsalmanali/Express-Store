@@ -1,3 +1,3 @@
 # Express Store
 
-An E-Commerce website built using Angular and Bootstrap. User can add products to cart, or remove already added products from cart.
+An E-Commerce website built using Angular and Bootstrap. User can add products to cart, or remove already added products from cart. Checkout page will be added in the future.
